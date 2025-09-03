@@ -87,6 +87,25 @@
         }
       ]
     }
+    "dropdowns":[
+      {
+        "dropdown": "Front-end",
+        "groups":[
+          {
+            "group":"React"
+            "pages": [
+              "/Font-end/React/quickstart",
+              "/Font-end/React/Génération UI",
+              "/Font-end/React/Interaction Interne",
+              "/Font-end/React/Gestion d'état",
+              "/Font-end/React/Interaction Externe",
+              "/Font-end/React/Hooks",
+              "/Font-end/React/Composants natifs"
+             ]
+          }
+        ]
+      },
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
