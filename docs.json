@@ -86,6 +86,14 @@
           "icon": "newspaper"
         }
       ]
+      "groups": [
+        "group": "React",
+            "pages": [
+              "index",
+              "quickstart",
+              "development"
+            ]
+      ]
     }
   },
   "logo": {
