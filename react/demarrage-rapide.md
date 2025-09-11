@@ -423,7 +423,7 @@ Si vous voulez utiliser `useState` dans une condition ou une boucle, extrayez un
 
 Dans l’exemple précédent, chaque `MyButton` avait son propre `count` indépendant, et lorsqu’un bouton était cliqué, seul le `count` de ce bouton changeait :
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Toutefois, vous aurez régulièrement besoin que vos composants _partagent des données et se mettent à jour de façon synchronisée_.
 
@@ -431,7 +431,7 @@ Afin que les deux composants `MyButton` affichent le même `count` et se mettent
 
 Dans cet exemple, il s’agit de `MyApp` :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 À présent quand vous cliquez l’un ou l’autre bouton, le `count` de `MyApp` change, ce qui altère les deux compteurs dans `MyButton`. Voici comment exprimer la même chose sous forme de code.
 
