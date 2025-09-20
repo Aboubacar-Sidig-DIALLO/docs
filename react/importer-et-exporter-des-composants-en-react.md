@@ -299,7 +299,7 @@ En React (et en JavaScript en général), tu as **deux grands types d’exports*
 
 ### 2. Le tableau comparatif (place pour l’image 🖼️)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
