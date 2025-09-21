@@ -2,7 +2,7 @@
 
 ### 🎯 Introduction
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Aujourd’hui, la version officiellement supportée est **Compose v2**, basée sur la **Compose Specification**.\
 Elle unifie et simplifie ce qui existait auparavant dans Compose v1.

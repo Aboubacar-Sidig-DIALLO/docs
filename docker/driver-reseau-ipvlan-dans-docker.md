@@ -41,7 +41,7 @@ Quand tu crées un réseau avec IPvlan, tu peux préciser :
 
 ### 🌍 Exemple : IPvlan en mode **L2**
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 (ici, l’image montre la topologie IPvlan L2 simple avec conteneurs reliés à eth0)
 
@@ -75,7 +75,7 @@ docker run --net=db_net -it --rm alpine /bin/sh
 
 ### 🌍 Exemple multi-hôtes IPvlan L2
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 (on y voit plusieurs hôtes reliés au même segment L2 avec des conteneurs IPvlan)
 
@@ -120,7 +120,7 @@ docker network create -d ipvlan isolated3
 
 ### 🌍 Exemple : IPvlan **802.1Q trunk L2**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 (on y voit plusieurs VLAN séparés reliés à des conteneurs Docker via eth0.20 et eth0.30)
 
@@ -191,7 +191,7 @@ docker network create -d ipvlan \
 
 ### 🌍 Exemple : Création réseau IPvlan L3
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 (on y voit que le L2 partage le VLAN, alors que le L3 crée des sous-réseaux routés par l’hôte)
 

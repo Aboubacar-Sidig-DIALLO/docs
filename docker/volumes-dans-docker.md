@@ -312,7 +312,7 @@ Exemples :
 * Une app web partage ses uploads/images entre plusieurs serveurs.
 * Une base ou un cache utilise un volume commun (ex: NFS, S3).
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -165,7 +165,7 @@ Pour arrêter et nettoyer les conteneurs :
 docker compose down
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Si tu rafraîchis la page [http://localhost:8000](http://localhost:8000) :
 
@@ -185,7 +185,7 @@ Hello World! I have been seen 2 times.
 
 C’est Redis qui garde la donnée persistante tant que le conteneur `redis` est actif.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### ✅ Étape 3 – Vérification des images
 
@@ -264,7 +264,7 @@ return f'Hello from Docker! I have been seen {count} times.\n'
 
 Sauvegarde → Compose Watch détecte le changement → Flask recharge → sans reconstruire l’image, ton app affiche&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 (ou autre chiffre selon ton compteur Redis).
 

@@ -71,4 +71,4 @@ Chaque commande `docker buildx` exécutée sera **tracée automatiquement**.\
 * ✅ **Surveiller les performances** des builds dans un CI/CD.
 * ✅ **Intégrer Docker Build dans ton observability stack** (Grafana, Jaeger, OpenTelemetry).
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

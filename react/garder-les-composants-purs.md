@@ -201,7 +201,7 @@ function Recipe({ drinkers }) {
 * Si ton composant est impur → tu auras des bugs (valeurs qui changent, calculs doublés, affichage imprévisible).
 * En gardant les composants purs → ton UI est **prévisible** et **stable**.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🚨 Pourquoi le premier exemple est impur
 

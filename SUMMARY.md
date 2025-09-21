@@ -27,7 +27,7 @@
 * [Réagir aux entrées utilisateur avec l’état](react/reagir-aux-entrees-utilisateur-avec-letat.md)
 * [Choisir la structure de l’état](react/choisir-la-structure-de-letat.md)
 * [🔄 Partager l’état entre composants (Lifting State Up)](react/partager-letat-entre-composants-lifting-state-up.md)
-* [🔄 Préservation et réinitialisation de l’état](react/preservation-et-reinitialisation-de-letat.md)
+* [🔄 Préservation et réinitialisation de l’état](react/page.md)
 
 ## Docker
 
@@ -90,3 +90,16 @@
 * [⚙️ Configuration du proxy pour le démon Docker](docker/configuration-du-proxy-pour-le-demon-docker.md)
 * [⚡ Live restore — Garder les conteneurs actifs quand le démon Docker s’arrête](docker/live-restore-garder-les-conteneurs-actifs-quand-le-demon-docker-sarrete.md)
 * [🐳 Docker – Runtimes alternatifs](docker/docker-runtimes-alternatifs.md)
+* [📊 Collecter des métriques Docker avec Prometheus](docker/collecter-des-metriques-docker-avec-prometheus.md)
+* [⚙️ Configurer le démon Docker comme cible Prometheus](docker/configurer-le-demon-docker-comme-cible-prometheus.md)
+* [🌐 Configurer l’accès distant pour le démon Docker](docker/configurer-lacces-distant-pour-le-demon-docker.md)
+* [📖 Lire les logs du démon Docker (dockerd)](docker/lire-les-logs-du-demon-docker-dockerd.md)
+* [🐳 Dépannage du démon Docker (dockerd)](docker/depannage-du-demon-docker-dockerd.md)
+* [🐳 Docker Contexts – Introduction](docker/docker-contexts-introduction.md)
+* [🐳 Labels dans Docker (Docker object labels)](docker/labels-dans-docker-docker-object-labels.md)
+* [🧹 Nettoyer les objets Docker inutilisés (Prune)](docker/nettoyer-les-objets-docker-inutilises-prune.md)
+* [📜 Voir les logs des conteneurs avec docker logs](docker/voir-les-logs-des-conteneurs-avec-docker-logs.md)
+* [⚙️ Configurer les logging drivers dans Docker](docker/configurer-les-logging-drivers-dans-docker.md)
+* [📝 Personnaliser la sortie des logs avec des tags](docker/personnaliser-la-sortie-des-logs-avec-des-tags.md)
+* [📝 Utiliser un plugin de logging driver avec Docker](docker/utiliser-un-plugin-de-logging-driver-avec-docker.md)
+* [📑 Utiliser docker logs avec des drivers de logging distants](docker/utiliser-docker-logs-avec-des-drivers-de-logging-distants.md)

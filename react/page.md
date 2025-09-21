@@ -652,9 +652,9 @@ export default function MyComponent() {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 À chaque fois que `MyComponent` est rendu, une **nouvelle fonction `MyTextField` est recréée**.\
@@ -780,7 +780,7 @@ export default function Scoreboard() {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 1️⃣ **État initial (Taylor actif)**
 

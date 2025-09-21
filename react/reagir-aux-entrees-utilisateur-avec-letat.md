@@ -33,7 +33,7 @@ En programmation impérative, ce scénario correspond **exactement à la façon 
 
 👉 C’est comme si vous étiez assis à côté d’une personne anxieuse au volant d’une voiture, et que vous deviez lui dire **tour par tour** où aller.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 _Dans une voiture conduite par une personne anxieuse représentant JavaScript, un passager donne au conducteur une série compliquée d’instructions de navigation, étape par étape._
 
