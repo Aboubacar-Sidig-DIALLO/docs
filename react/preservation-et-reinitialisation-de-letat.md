@@ -1,4 +1,4 @@
-# Page
+# 🔄 Préservation et réinitialisation de l’état
 
 En React, **chaque composant a son propre état isolé**.\
 React garde la trace de **quel état appartient à quel composant** en fonction de sa position dans l’**arbre de l’UI**.
@@ -152,7 +152,7 @@ function Counter() {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 Un `<div>` racine contient deux enfants `<Counter>`.
@@ -186,7 +186,7 @@ Chaque `Counter` a son propre `score` et son propre `hover`.
 
 ***
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 Si tu incrémentes uniquement le compteur de droite&#x20;
@@ -225,7 +225,7 @@ export default function App() {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 Quand tu décoches la case, le 2e compteur est supprimé → **son état disparaît aussi**.
@@ -238,7 +238,7 @@ div
 
 ***
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 Quand tu recoches la case, React crée **un nouveau Counter**, avec un état initial (`count = 0`).
@@ -323,7 +323,7 @@ function Counter({ isFancy }) {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 Quand tu coches la case :
@@ -493,7 +493,7 @@ function Counter() {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**
 
@@ -586,7 +586,7 @@ function Counter({ isFancy }) {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 📖 **Description :**\
 Même si `<Counter />` reste présent, il change de **parent (`section` → `div`)**.\

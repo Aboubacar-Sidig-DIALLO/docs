@@ -23,7 +23,7 @@ Imaginons que ton designer t’a donné une maquette, et que tu as déjà une AP
 
 La maquette ressemble à ça :
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@ Quand tu transformes une maquette en appli React, tu vas généralement suivre *
 Imagine que tu découpes ta maquette en morceaux logiques.\
 Chaque morceau devient un **composant React**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="334"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="334"><figcaption></figcaption></figure>
 
 Exemple dans notre cas :
 
@@ -203,7 +203,7 @@ export default function App() {
 
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
 
 👉 Ici :
 
@@ -523,7 +523,7 @@ export default function App() {
 
 ```
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="230"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="230"><figcaption></figcaption></figure>
 
 ***
 
@@ -766,7 +766,7 @@ export default function App() {
 
 ```
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 ### Résultat final 🎉
 

@@ -33,7 +33,7 @@ En programmation impérative, ce scénario correspond **exactement à la façon 
 
 👉 C’est comme si vous étiez assis à côté d’une personne anxieuse au volant d’une voiture, et que vous deviez lui dire **tour par tour** où aller.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 _Dans une voiture conduite par une personne anxieuse représentant JavaScript, un passager donne au conducteur une série compliquée d’instructions de navigation, étape par étape._
 
@@ -103,7 +103,7 @@ Avec React :
 👉 C’est comme monter dans un taxi et **dire la destination** au chauffeur, plutôt que de lui dicter chaque tournant.\
 C’est au chauffeur (React) de trouver le chemin — et parfois même il connaît des raccourcis auxquels vous n’auriez pas pensé !
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Dans une voiture conduite par React, un passager demande à être conduit à un endroit précis sur la carte. React se charge de trouver l’itinéraire._
 
