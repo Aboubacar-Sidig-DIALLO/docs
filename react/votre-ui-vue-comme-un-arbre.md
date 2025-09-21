@@ -27,7 +27,7 @@ React, comme de nombreuses autres bibliothèques d’UI, modélise l’UI comme 
 
 ### 🔹 De vos composants au DOM
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 💡 **React crée un arbre d’UI à partir de vos composants.** Dans cet exemple, cet arbre sert à produire le **DOM**.
 
@@ -69,7 +69,7 @@ export default function App() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ⚡ Chaque nœud représente un **composant React**. Le nœud racine est le **composant racine de l’appli** (ici `App`).
 
@@ -104,7 +104,7 @@ Avec du **JSX conditionnel**, l’arbre peut changer d’un rendu à l’autre.
 </InspirationGenerator>
 ```
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ⚡ Selon `inspiration.type`, l’arbre varie !
 
@@ -131,7 +131,7 @@ Avec du **JSX conditionnel**, l’arbre peut changer d’un rendu à l’autre.
 
 ### 🔹 Exemple : l’appli _Inspirations_
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Racine : `App.js`
   * importe `InspirationGenerator.js`

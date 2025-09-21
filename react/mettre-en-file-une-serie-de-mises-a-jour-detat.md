@@ -144,7 +144,7 @@ Cela ressemble à un serveur qui prend une commande au restaurant.
 * Le serveur ne court pas en cuisine dès que vous mentionnez votre premier plat !
 * Il vous laisse finir votre commande, y apporter des modifications, et même prendre les commandes des autres personnes à table.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

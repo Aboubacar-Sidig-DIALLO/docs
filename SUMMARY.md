@@ -23,3 +23,8 @@
 * [⚡Mettre en file une série de mises à jour d’état](react/mettre-en-file-une-serie-de-mises-a-jour-detat.md)
 * [📝 Mettre à jour des objets dans l’état](react/mettre-a-jour-des-objets-dans-letat.md)
 * [🔢 Mettre à jour des tableaux dans l’état React](react/mettre-a-jour-des-tableaux-dans-letat-react.md)
+* [📚 Gestion de l’État (niveau intermédiaire)](react/gestion-de-letat-niveau-intermediaire.md)
+* [Réagir aux entrées utilisateur avec l’état](react/reagir-aux-entrees-utilisateur-avec-letat.md)
+* [Choisir la structure de l’état](react/choisir-la-structure-de-letat.md)
+* [🔄 Partager l’état entre composants (Lifting State Up)](react/partager-letat-entre-composants-lifting-state-up.md)
+* [Page](react/page.md)

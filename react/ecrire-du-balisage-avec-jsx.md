@@ -167,7 +167,7 @@ Et bien souvent dans **des fichiers séparés**.
 
 ***
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Un exemple de balisage HTML simple :
 
@@ -184,7 +184,7 @@ Un exemple de balisage HTML simple :
 
 ***
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le JavaScript était **ailleurs** :
 
