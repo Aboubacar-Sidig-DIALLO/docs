@@ -158,7 +158,7 @@ Contrairement à une simple photo figée, cet « instantané » contient aussi d
 2. Votre fonction renvoie un **nouvel instantané JSX**.
 3. React met à jour le DOM pour refléter ce nouvel instantané.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 📦 Où vit l’état ?
 

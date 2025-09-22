@@ -112,7 +112,7 @@ Docker repose sur une **architecture client-serveur** :
 
 👉 Cette architecture rend Docker **modulaire** et **flexible** : vous pouvez interagir localement ou à distance, lancer un seul conteneur ou orchestrer des dizaines, sans changer vos outils de base.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Le démon Docker (**Docker daemon**)
 

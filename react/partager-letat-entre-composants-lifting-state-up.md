@@ -67,7 +67,7 @@ export default function Accordion() {
 
 ***
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1️⃣ État initial\
 Diagramme montrant un arbre de trois composants : un parent `Accordion` et deux enfants `Panel`.\
