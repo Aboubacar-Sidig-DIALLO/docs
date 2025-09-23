@@ -121,7 +121,7 @@ Un enregistrement d’image Docker est identifié par :
 👉 C’est l’éditeur qui décide quels tags sont signés.\
 👉 Il peut exister **deux versions différentes** d’un même tag (`latest`) : une signée et une non signée.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -147,7 +147,7 @@ Résultat :
   → seules les images **signées** sont accessibles.\
   → les images non signées deviennent **invisibles**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔑 Docker Content Trust – Les clés
 
@@ -169,7 +169,7 @@ Un jeu de clés contient trois types principaux :
    * Exemple : la **clé de timestamp**.
    * Elle fournit des **garanties de fraîcheur** pour le repository (évite qu’un ancien tag signé soit réutilisé frauduleusement).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -186,7 +186,7 @@ Une fois ton conteneur Prometheus lancé :
 http://localhost:9090/targets/
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -220,7 +220,7 @@ Dans l’UI Prometheus :
 
 Exemple d’interface :
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -253,5 +253,5 @@ Attends quelques secondes (⏳ l’intervalle de scrapping par défaut est de **
 
 Exemple attendu :
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
