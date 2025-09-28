@@ -28,6 +28,18 @@
 * [Choisir la structure de l’état](react/choisir-la-structure-de-letat.md)
 * [🔄 Partager l’état entre composants (Lifting State Up)](react/partager-letat-entre-composants-lifting-state-up.md)
 * [🔄 Préservation et réinitialisation de l’état](react/page.md)
+* [Extraire la logique d’état dans un réducer](react/extraire-la-logique-detat-dans-un-reducer.md)
+* [📌 Transmettre des données en profondeur avec le Contexte (Context)](react/transmettre-des-donnees-en-profondeur-avec-le-contexte-context.md)
+* [🚀 Monter en échelle avec Reducer et Context(Scaling Up with Reducer and Context)](react/monter-en-echelle-avec-reducer-et-context-scaling-up-with-reducer-and-context.md)
+* [🛠️ Escape Hatches](react/escape-hatches.md)
+* [🔖 Référencer des valeurs avec les Refs(Referencing Values with Refs)](react/referencer-des-valeurs-avec-les-refs-referencing-values-with-refs.md)
+* [Manipulation du DOM avec les Refs (Manipulating the DOM with Refs)](react/manipulation-du-dom-avec-les-refs-manipulating-the-dom-with-refs.md)
+* [Synchroniser avec les Effets (useEffect) - (Synchronizing with Effects)](react/synchroniser-avec-les-effets-useeffect-synchronizing-with-effects.md)
+* [Vous n’avez peut-être pas besoin d’un Effet (useEffect)-(You Might Not Need an Effect)](react/vous-navez-peut-etre-pas-besoin-dun-effet-useeffect-you-might-not-need-an-effect.md)
+* [🔄 Cycle de vie des Effets réactifs (useEffect) - (Lifecycle of Reactive Effects)](react/cycle-de-vie-des-effets-reactifs-useeffect-lifecycle-of-reactive-effects.md)
+* [🎭 Séparer les Événements des Effets(Separating Events from Effects)](react/separer-les-evenements-des-effets-separating-events-from-effects.md)
+* [📌 Supprimer les dépendances inutiles dans un useEffect(Removing Effect Dependencies)](react/supprimer-les-dependances-inutiles-dans-un-useeffect-removing-effect-dependencies.md)
+* [🔄 Réutiliser la logique avec des Hooks personnalisés(Reusing Logic with Custom Hooks)](react/reutiliser-la-logique-avec-des-hooks-personnalises-reusing-logic-with-custom-hooks.md)
 
 ## Docker
 
@@ -151,3 +163,6 @@
 * [🌍 Builds multi-plateformes](docker/builds-multi-plateformes.md)
 * [📦 Exporter des binaires](docker/exporter-des-binaires.md)
 * [⚙️ Container Device Interface (CDI)](docker/container-device-interface-cdi.md)
+* [🛠️ Building best practices – Multi-stage builds](docker/building-best-practices-multi-stage-builds.md)
+* [Base image](docker/base-image.md)
+* [Build check](docker/build-check.md)

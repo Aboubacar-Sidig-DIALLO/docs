@@ -81,7 +81,7 @@ Une fois que React sait **ce qui a changé**, il met à jour le **DOM** :
 2. **Rendu du composant** → La cuisine prépare les plats (React calcule le JSX).
 3. **Commit** → Le serveur amène les plats (React applique les changements au DOM).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## ⚡ Étape 1 : Déclenchement d’un rendu
 
@@ -124,7 +124,7 @@ function Card() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. La cliente (utilisateur) dit : _"Je veux une carte rose, pas noire !"_
 2. React retourne dans la **Cuisine des Composants** 🧑‍🍳.
@@ -291,4 +291,4 @@ En résumé :\
 👉 React prépare et met à jour le DOM.\
 👉 Le navigateur **dessine** les changements visuellement.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -67,7 +67,7 @@ jobs:
 
 👉 Les logs apparaîtront à la fin du job.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

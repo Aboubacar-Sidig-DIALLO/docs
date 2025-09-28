@@ -464,7 +464,7 @@ RUN npm run build
 * `ARG` = disponible **pendant le build uniquement** (sauf si converti en `ENV`).
 * `ENV` = persiste dans l’image finale et est disponible à l’exécution du conteneur.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚙️ Arguments de build pré-définis dans Docker
 
