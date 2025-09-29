@@ -166,3 +166,22 @@
 * [🛠️ Building best practices – Multi-stage builds](docker/building-best-practices-multi-stage-builds.md)
 * [Base image](docker/base-image.md)
 * [Build check](docker/build-check.md)
+
+## BetterAuth
+
+* [🌟 Introduction à BetterAuth](betterauth/introduction-a-betterauth.md)
+* [⚖️ Comparaison](betterauth/comparaison.md)
+* [⚙️ Installation de BetterAuth](betterauth/installation-de-betterauth.md)
+* [📝 Utilisation de base (Basic Usage)](betterauth/utilisation-de-base-basic-usage.md)
+* [🌐 API de BetterAuth](betterauth/api-de-betterauth.md)
+* [🛠️ CLI BetterAuth](betterauth/cli-betterauth.md)
+* [🖥️ Client BetterAuth](betterauth/client-betterauth.md)
+* [🍪 Cookies dans BetterAuth](betterauth/cookies-dans-betterauth.md)
+* [🗄️ Base de données (Database)](betterauth/base-de-donnees-database.md)
+* [📧 Email dans BetterAuth](betterauth/email-dans-betterauth.md)
+* [🪝 Hooks dans BetterAuth](betterauth/hooks-dans-betterauth.md)
+* [🔌 Plugins dans BetterAuth](betterauth/plugins-dans-betterauth.md)
+* [🔑 OAuth avec Better Auth](betterauth/oauth-avec-better-auth.md)
+* [🚦 Rate Limit dans Better Auth](betterauth/rate-limit-dans-better-auth.md)
+* [🛠️ Session Management avec Better Auth](betterauth/session-management-avec-better-auth.md)
+* [🟦 TypeScript avec Better Auth](betterauth/typescript-avec-better-auth.md)
