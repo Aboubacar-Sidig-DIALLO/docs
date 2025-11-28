@@ -197,3 +197,8 @@
 * [📌 Prisma avec Better Auth](betterauth/prisma-avec-better-auth.md)
 * [📌 MongoDB Adapter avec Better Auth](betterauth/mongodb-adapter-avec-better-auth.md)
 * [🔐 Two-Factor Authentication (2FA) dans Better Auth](betterauth/two-factor-authentication-2fa-dans-better-auth.md)
+
+## Nodemailer
+
+* [Nodemailer](nodemailer/nodemailer.md)
+* [Page](nodemailer/page.md)
